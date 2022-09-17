@@ -8,4 +8,4 @@ Contoh penggunaan Native terdapat pada
 http://localhost/HMVC-Codeigniter-3/user
 
 Contoh penggunaan AJAX terdapat pada
-http://localhost/HMVC_Codeigniter-3/produk
+http://localhost/HMVC-Codeigniter-3/produk
